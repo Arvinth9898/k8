@@ -26,6 +26,6 @@ spec:
         app: hello 
     spec:
       containers:
-        - name: hello
-          image: shankysai/newimage:latest
+        - name: hello 
+          image: aravinth9898/k8image:latest
           imagePullPolicy: Always
